@@ -1,0 +1,1 @@
+Variable speed counter implemented using simple counters. There were easier ways to do it, but it is a school proyect, so we had to do it with the given specifications.

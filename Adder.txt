@@ -1,0 +1,1 @@
+Simple adder. The output is shown in a 7-segment Display

@@ -1,0 +1,1 @@
+Simple traffic light programm implemented using Timers. In this case, Timer2 and Timer0 were used.

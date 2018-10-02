@@ -1,0 +1,1 @@
+Timer that counts 'exactly' 920 microseconds. The number was chosen for private reasons. 
